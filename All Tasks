@@ -18,7 +18,7 @@ What type of DNS Server is usually provided by your ISP? --> Recursive
 What type of server holds all the records for a domain? --> Authoritative
 
 Task 5:
-
+*/....................................................*/
 Open View Site and do the following:
 user@thm:~$ nslookup --type=CNAME shop.website.thm
 Server: 127.0.0.53
